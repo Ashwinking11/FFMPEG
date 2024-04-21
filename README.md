@@ -84,8 +84,7 @@ clear - clear queued files
 logs - get bot logs
 help - same as start
 ```
-[![Name](https://www.herokucdn.com/deploy/button.svg)](https://github.com/Ashwinking11/FFMPEG)
-
+[![Name](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Ashwinking11/FFMPEG)
 ### Features:
 __(Coming Soon)__
 
