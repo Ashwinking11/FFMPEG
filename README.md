@@ -1,4 +1,4 @@
-# [ENC]
+uu# [ENC]
 
 [![pyLint](https://github.com/Nubuki-all/Tg-encoder/actions/workflows/pyLint.yml/badge.svg?branch=main)](https://github.com/Nubuki-all/Tg-encoder/actions/workflows/pyLint.yml)
 
@@ -84,7 +84,6 @@ clear - clear queued files
 logs - get bot logs
 help - same as start
 ```
-[![Name](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Ashwinking11/FFMPEG)
 ### Features:
 __(Coming Soon)__
 
